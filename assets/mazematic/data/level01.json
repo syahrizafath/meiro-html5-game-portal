@@ -1,0 +1,36 @@
+{
+    "walls": [
+        {"image": "wall_brown:2x19", "x": 0, "y": 0},
+        {"image": "wall_brown:2x19", "x": 896, "y": 0},
+        {"image": "wall_brown:26x1", "x": 64, "y": 0},
+        {"image": "wall_brown:26x1", "x": 64, "y": 576},
+        {"image": "wall_brown:26x1", "x": 64, "y": 449},
+        {"image": "wall_brown:1x8", "x": 224, "y": 32},
+        {"image": "wall_brown:1x8", "x": 704, "y": 32},
+        {"image": "wall_brown", "x": 224, "y": 288},
+        {"image": "wall_brown", "x": 224, "y": 417},
+        {"image": "wall_brown", "x": 224, "y": 385},
+        {"image": "wall_brown", "x": 864, "y": 257},
+        {"image": "wall_brown:2x1", "x": 736, "y": 257},
+        {"image": "wall_brown:0.5x1", "x": 800, "y": 257},
+        {"image": "wall_brown:1x0.5", "x": 224, "y": 320}
+    ],
+    "holeBlue": {"image": "holeBlue", "x": 840, "y": 273},
+    "holeRed": {"image": "holeRed", "x": 240, "y": 360},
+    "finish": [
+        {"image": "finish", "x": 800, "y": 128}
+    ],
+    "greyCrate": {"image": "greyCrate", "x": 720, "y": 401},
+    "steelCrate": {"image": "steelCrate", "x": 144, "y": 112},
+    "woodCrate": {"image": "woodCrate", "x": 144, "y": 369},
+    "redCrate": {"image": "redCrate", "x": 528, "y": 80},
+    "quests": [
+        {"image": "quest:10-1", "x": 64, "y": 32},
+        {"image": "quest:5+2", "x": 64, "y": 385},
+        {"image": "quest:2x3", "x": 544, "y": 32},
+        {"image": "quest:9|3", "x": 736, "y": 385}
+    ],
+    "buttonBlue": {"image": "buttonBlue", "x": 512, "y": 256},
+    "buttonRed": {"image": "buttonRed", "x": 144, "y": 224},
+    "hero": {"x": 128, "y": 256}
+}

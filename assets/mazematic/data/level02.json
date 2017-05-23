@@ -1,0 +1,44 @@
+{
+    "walls": [
+        {"image": "wall_brown:2x19", "x": 0, "y": 0},
+        {"image": "wall_brown:2x19", "x": 896, "y": 0},
+        {"image": "wall_brown:26x1", "x": 64, "y": 0},
+        {"image": "wall_brown:26x1", "x": 64, "y": 576},
+        {"image": "wall_brown:4x1", "x": 384, "y": 192},
+        {"image": "wall_brown:8x1", "x": 224, "y": 96},
+        {"image": "wall_brown:8x1", "x": 480, "y": 96},
+        {"image": "wall_brown:4x1", "x": 256, "y": 448},
+        {"image": "wall_brown:4x1", "x": 576, "y": 448},
+        {"image": "wall_brown:2x1", "x": 384, "y": 448},
+        {"image": "wall_brown:2x1", "x": 512, "y": 448},
+        {"image": "wall_brown:0.5x1", "x": 448, "y": 448},
+        {"image": "wall_brown:1x8", "x": 224, "y": 128},
+        {"image": "wall_brown:1x4", "x": 224, "y": 352},
+        {"image": "wall_brown:1x8", "x": 704, "y": 128},
+        {"image": "wall_brown:1x4", "x": 704, "y": 352},
+        {"image": "wall_brown:2x1", "x": 512, "y": 192},
+        {"image": "wall_brown:1x4", "x": 384, "y": 224},
+        {"image": "wall_brown:1x4", "x": 544, "y": 224},
+        {"image": "wall_brown:2x1", "x": 384, "y": 352},
+        {"image": "wall_brown:0.5x1", "x": 448, "y": 352},
+        {"image": "wall_brown:2x1", "x": 512, "y": 352}
+    ],
+    "holeRed": {"x": 488, "y": 368},
+    "holeBlue": {"x": 488, "y": 464},
+    "finish": [
+        {"image": "finish", "x": 464, "y": 272}
+    ],
+    "woodCrate": {"x": 336, "y": 384},
+    "steelCrate": {"x": 800, "y": 496},
+    "greyCrate": {"x": 160, "y": 496},
+    "redCrate": {"x": 624, "y": 384},
+    "quests": [
+        {"image": "quest:8-4", "x": 64, "y": 512},
+        {"image": "quest:7+3", "x": 704, "y": 512},
+        {"image": "quest:6x1", "x": 256, "y": 416},
+        {"image": "quest:4|2", "x": 544, "y": 416}
+    ],
+    "buttonRed": {"x": 480, "y": 160},
+    "buttonBlue": {"x": 480, "y": 64},
+    "hero": {"x": 128, "y": 256}
+}
